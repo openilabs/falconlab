@@ -7,9 +7,9 @@
 [submodule "static/libs/jquery"]
 	path = static/libs/jquery
 	url = git@github.com:jquery/jquery.git
-[submodule "static/libs/ed25519js"]
-	path = static/libs/ed25519js
-	url = git@github.com:meganz/ed25519js.git
 [submodule "static/libs/asmcrypto.js"]
 	path = static/libs/asmcrypto.js
 	url = git@github.com:vibornoff/asmcrypto.js.git
+[submodule "static/libs/curve255js"]
+	path = static/libs/curve255js
+	url = git@github.com:rev22/curve255js.git
