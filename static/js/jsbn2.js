@@ -1,0 +1,1 @@
+../libs/ed25519js/lib/jsbn2.js
