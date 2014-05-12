@@ -1,1 +1,0 @@
-../libs/ed25519js/lib/curve255.js

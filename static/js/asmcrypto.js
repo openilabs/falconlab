@@ -1,1 +1,1 @@
-../libs/ed25519js/lib/asmcrypto.js
+../libs/asmcrypto.js/asmcrypto.js

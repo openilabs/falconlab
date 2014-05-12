@@ -13,3 +13,9 @@
 [submodule "static/libs/curve255js"]
 	path = static/libs/curve255js
 	url = git@github.com:rev22/curve255js.git
+[submodule "static/libs/jsjws"]
+	path = static/libs/jsjws
+	url = git@github.com:kjur/jsjws.git
+[submodule "static/libs/jsrsasign"]
+	path = static/libs/jsrsasign
+	url = git@github.com:kjur/jsrsasign.git

@@ -1,0 +1,1 @@
+../../node_modules/ecma-nacl/ecma-nacl_browserified.js
